@@ -1,5 +1,5 @@
 ### Hi there 👋
-| `calm_pink` ![calm_pink][calm_pink] | `ambient_gradient` ![ambient_gradient][ambient_gradient] | [Add your theme][add-theme] |
+?theme=ambient_gradient
 <!--
 **yujun07/yujun07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
