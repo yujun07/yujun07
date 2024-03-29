@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Yujun's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujun07)](https://github.com/anuraghazra/github-readme-stats)
+![Yujun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujun07&theme=ambient_gradient&show_icons=true)
 
 
 <!--
