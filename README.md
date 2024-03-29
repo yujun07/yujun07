@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=400&color=DF06F7&background=FFFFFF00&center=true&multiline=true&random=false&width=435&lines=Hi+my+name+is+Yujun+Han;I'm+a+beginner+Game+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=400&color=DF06F7&background=FFFFFF00&center=true&multiline=true&random=false&width=435&height=60&lines=Hi+my+name+is+Yujun+Han;I'm+a+beginner+Game+developer)](https://git.io/typing-svg)
 
 ![Yujun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujun07&theme=ambient_gradient&show_icons=true)
 
