@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=500&random=false&width=435&lines=Hi+my+name+is+Yujun+Han;+I'm+a+beginner+Unity+developer)](https://git.io/typing-svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujun07&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Yujun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujun07&theme=ambient_gradient&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujun07&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yujun07/yujun07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
